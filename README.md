@@ -1,5 +1,5 @@
 # jenkins-remote-trigger-python
-Trigger jenkins job remotely through python scripts
+Trigger jenkins job remotely through python scripts.
 
 
 ## OS & JSON Python Library
